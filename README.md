@@ -29,3 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Project Image
 ![Proje resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+## patika.dev profilim
+
+(https://app.patika.dev/ersinelmas)
