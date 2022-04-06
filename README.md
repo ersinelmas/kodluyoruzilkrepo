@@ -32,4 +32,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## patika.dev profilim
 
-(https://app.patika.dev/ersinelmas)
+https://app.patika.dev/ersinelmas
